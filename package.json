@@ -1,0 +1,26 @@
+{
+  "name": "bops-browser",
+  "version": "0.6.0",
+  "description": "A version of chrisdickinson/bops just for browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/creationix/bops-browser.git"
+  },
+  "keywords": [
+    "bops",
+    "browser"
+  ],
+  "author": "Tim Caswell <tim@creationix.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/creationix/bops-browser/issues"
+  },
+  "dependencies": {
+    "base64-js": "0.0.4",
+    "to-utf8": "0.0.1"
+  }
+}
